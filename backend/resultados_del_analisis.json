@@ -1,0 +1,14 @@
+{
+  "mejor_modelo": "Árbol de Decisión",
+  "r2_score": 0.87,
+  "prediccion_julio": "RD$ 120,000",
+  "clusters": [
+    "Cluster 1: Clientes frecuentes con alto gasto",
+    "Cluster 2: Clientes nuevos con bajo gasto"
+  ],
+  "variables_importantes": [
+    "Publicidad",
+    "Precio",
+    "Temporada"
+  ]
+}

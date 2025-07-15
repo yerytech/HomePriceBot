@@ -1,0 +1,15 @@
+{
+    "mejor_modelo": "\u00c1rbol de Decisi\u00f3n",
+    "r2_score": 0.6355,
+    "prediccion_valor_medio": 204685.97,
+    "clusters": [
+        "Cluster 1",
+        "Cluster 2",
+        "Cluster 3"
+    ],
+    "variables_importantes": [
+        "median_income",
+        "total_rooms",
+        "ocean_proximity_NEAR BAY"
+    ]
+}
